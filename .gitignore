@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+.vscode/*
+
+/*.txt
+/app/*
+/mysql/db_dump/*
+/phpmyadmin/sessions/*  
+!.gitkeep
